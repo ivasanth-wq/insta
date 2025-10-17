@@ -1,4 +1,4 @@
- index2.css:root {
+ index.css:root {
                                  --bg-dark: #121212;
                                  --container-dark: #1E1E1E;
                                  --accent-gradient: linear-gradient(135deg, #833AB4, #FD1D1D, #F77737);
@@ -117,3 +117,4 @@
                                  .post-card {
                                      padding: 5vw;
                                  }
+
